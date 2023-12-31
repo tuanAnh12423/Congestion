@@ -1,0 +1,3105 @@
+fileFormatVersion: 2
+guid: 7bec34e6973943b45aac1ef1329885c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6669971175496074141
+    second: CP_V1.0.4_0
+  - first:
+      213: 2776858760641423503
+    second: CP_V1.0.4_1
+  - first:
+      213: -3672914969698219484
+    second: CP_V1.0.4_2
+  - first:
+      213: 6121683534337745368
+    second: CP_V1.0.4_3
+  - first:
+      213: 3777559525193862382
+    second: CP_V1.0.4_4
+  - first:
+      213: 2481181708087501765
+    second: CP_V1.0.4_5
+  - first:
+      213: -493061890987620958
+    second: CP_V1.0.4_6
+  - first:
+      213: 5054403134209936823
+    second: CP_V1.0.4_7
+  - first:
+      213: -1137592770813880039
+    second: CP_V1.0.4_8
+  - first:
+      213: 3693327460294701576
+    second: CP_V1.0.4_9
+  - first:
+      213: 2178492917190364348
+    second: CP_V1.0.4_10
+  - first:
+      213: 5373855539387855405
+    second: CP_V1.0.4_11
+  - first:
+      213: -6791960327211408216
+    second: CP_V1.0.4_12
+  - first:
+      213: -4232856370398728752
+    second: CP_V1.0.4_13
+  - first:
+      213: 8681978392321763851
+    second: CP_V1.0.4_14
+  - first:
+      213: -5422089306815290780
+    second: CP_V1.0.4_15
+  - first:
+      213: 6023890332652210146
+    second: CP_V1.0.4_16
+  - first:
+      213: -7442772181592641934
+    second: CP_V1.0.4_17
+  - first:
+      213: 608085409672713705
+    second: CP_V1.0.4_18
+  - first:
+      213: 7534074235166975518
+    second: CP_V1.0.4_19
+  - first:
+      213: 4765299235684716044
+    second: CP_V1.0.4_20
+  - first:
+      213: 8048336185474192458
+    second: CP_V1.0.4_21
+  - first:
+      213: -2246916494574519807
+    second: CP_V1.0.4_22
+  - first:
+      213: -3077082062147936637
+    second: CP_V1.0.4_23
+  - first:
+      213: -1601527161514656763
+    second: CP_V1.0.4_24
+  - first:
+      213: 7887662116741467653
+    second: CP_V1.0.4_25
+  - first:
+      213: -5508085127321791637
+    second: CP_V1.0.4_26
+  - first:
+      213: 7015564251250634988
+    second: CP_V1.0.4_27
+  - first:
+      213: -1197583518213677595
+    second: CP_V1.0.4_28
+  - first:
+      213: -5696901393599595582
+    second: CP_V1.0.4_29
+  - first:
+      213: 6053452351487378463
+    second: CP_V1.0.4_30
+  - first:
+      213: 7721425789549376991
+    second: CP_V1.0.4_31
+  - first:
+      213: -8038234763051585606
+    second: CP_V1.0.4_32
+  - first:
+      213: -315583168644363856
+    second: CP_V1.0.4_33
+  - first:
+      213: 4243323750598796216
+    second: CP_V1.0.4_34
+  - first:
+      213: -6573499069179118587
+    second: CP_V1.0.4_35
+  - first:
+      213: 8382191946135571841
+    second: CP_V1.0.4_36
+  - first:
+      213: -1445999350017554496
+    second: CP_V1.0.4_37
+  - first:
+      213: 6257519906740845522
+    second: CP_V1.0.4_38
+  - first:
+      213: -2925937579362945522
+    second: CP_V1.0.4_39
+  - first:
+      213: 4946963429487303862
+    second: CP_V1.0.4_40
+  - first:
+      213: 90108948353388709
+    second: CP_V1.0.4_41
+  - first:
+      213: 7827795348807386922
+    second: CP_V1.0.4_42
+  - first:
+      213: -8930725102750587426
+    second: CP_V1.0.4_43
+  - first:
+      213: -5938704912551137136
+    second: CP_V1.0.4_44
+  - first:
+      213: 2734984222330406140
+    second: CP_V1.0.4_45
+  - first:
+      213: -6996198008929600956
+    second: CP_V1.0.4_46
+  - first:
+      213: 1730809677445362862
+    second: CP_V1.0.4_47
+  - first:
+      213: 5743340916458537025
+    second: CP_V1.0.4_48
+  - first:
+      213: -2638280106058780046
+    second: CP_V1.0.4_49
+  - first:
+      213: 5630604034334708182
+    second: CP_V1.0.4_50
+  - first:
+      213: 8026938124256435134
+    second: CP_V1.0.4_51
+  - first:
+      213: 3079434808264247364
+    second: CP_V1.0.4_52
+  - first:
+      213: -4088431511589742473
+    second: CP_V1.0.4_53
+  - first:
+      213: -300605024101372950
+    second: CP_V1.0.4_54
+  - first:
+      213: -706358897898628796
+    second: CP_V1.0.4_55
+  - first:
+      213: 7976007646602393765
+    second: CP_V1.0.4_56
+  - first:
+      213: 145176487422733140
+    second: CP_V1.0.4_57
+  - first:
+      213: 2751951958336284784
+    second: CP_V1.0.4_58
+  - first:
+      213: -8927277847382098386
+    second: CP_V1.0.4_59
+  - first:
+      213: 440390153291341901
+    second: CP_V1.0.4_60
+  - first:
+      213: 276552327841910604
+    second: CP_V1.0.4_61
+  - first:
+      213: -6386699115856784368
+    second: CP_V1.0.4_62
+  - first:
+      213: -5611632929705800667
+    second: CP_V1.0.4_63
+  - first:
+      213: 7012328096041350438
+    second: CP_V1.0.4_64
+  - first:
+      213: -1823858937455403208
+    second: CP_V1.0.4_65
+  - first:
+      213: 2815902490062063479
+    second: CP_V1.0.4_66
+  - first:
+      213: 1896768550241187929
+    second: CP_V1.0.4_67
+  - first:
+      213: 1386937055521821309
+    second: CP_V1.0.4_68
+  - first:
+      213: -4803464540001080174
+    second: CP_V1.0.4_69
+  - first:
+      213: 6785262764345267156
+    second: CP_V1.0.4_70
+  - first:
+      213: 3181614506731337038
+    second: CP_V1.0.4_71
+  - first:
+      213: -4322989653800317234
+    second: CP_V1.0.4_72
+  - first:
+      213: 4824142729618729990
+    second: CP_V1.0.4_73
+  - first:
+      213: 350915469310522167
+    second: CP_V1.0.4_74
+  - first:
+      213: 7324226377478199423
+    second: CP_V1.0.4_75
+  - first:
+      213: -1257951492388632832
+    second: CP_V1.0.4_76
+  - first:
+      213: 1641023131603367815
+    second: CP_V1.0.4_77
+  - first:
+      213: 5500038159107912079
+    second: CP_V1.0.4_78
+  - first:
+      213: -9183249194827938024
+    second: CP_V1.0.4_79
+  - first:
+      213: -6402724644709670008
+    second: CP_V1.0.4_80
+  - first:
+      213: 2287289686857679820
+    second: CP_V1.0.4_81
+  - first:
+      213: -3641745781881745874
+    second: CP_V1.0.4_82
+  - first:
+      213: 8678032213614492729
+    second: CP_V1.0.4_83
+  - first:
+      213: 1018753578309831016
+    second: CP_V1.0.4_84
+  - first:
+      213: 4672075706544786686
+    second: CP_V1.0.4_85
+  - first:
+      213: -8545159886966864970
+    second: CP_V1.0.4_86
+  - first:
+      213: 5195309300784344064
+    second: CP_V1.0.4_87
+  - first:
+      213: -764166362325057930
+    second: CP_V1.0.4_88
+  - first:
+      213: 4013896871429905594
+    second: CP_V1.0.4_89
+  - first:
+      213: 5664179013910990040
+    second: CP_V1.0.4_90
+  - first:
+      213: 3696614548998766596
+    second: CP_V1.0.4_91
+  - first:
+      213: -150496432976488032
+    second: CP_V1.0.4_92
+  - first:
+      213: 8522194331684196552
+    second: CP_V1.0.4_93
+  - first:
+      213: 367046257197433003
+    second: CP_V1.0.4_94
+  - first:
+      213: 3971819964072014652
+    second: CP_V1.0.4_95
+  - first:
+      213: -228704703356084805
+    second: CP_V1.0.4_96
+  - first:
+      213: -6551009695827532754
+    second: CP_V1.0.4_97
+  - first:
+      213: 2407429496607507848
+    second: CP_V1.0.4_98
+  - first:
+      213: -4538600552485432454
+    second: CP_V1.0.4_99
+  - first:
+      213: -5455805116254516799
+    second: CP_V1.0.4_100
+  - first:
+      213: -3817294120857641513
+    second: CP_V1.0.4_101
+  - first:
+      213: 1390597384935739604
+    second: CP_V1.0.4_102
+  - first:
+      213: 7553538732826055867
+    second: CP_V1.0.4_103
+  - first:
+      213: -1568245944958179014
+    second: CP_V1.0.4_104
+  - first:
+      213: 3470210628143035326
+    second: CP_V1.0.4_105
+  - first:
+      213: 5251711455830262112
+    second: CP_V1.0.4_106
+  - first:
+      213: 4319031627930656324
+    second: CP_V1.0.4_107
+  - first:
+      213: 7815596392977549826
+    second: CP_V1.0.4_108
+  - first:
+      213: 8527890249696941563
+    second: CP_V1.0.4_109
+  - first:
+      213: 8716243340102386226
+    second: CP_V1.0.4_110
+  - first:
+      213: 4859841167372912544
+    second: CP_V1.0.4_111
+  - first:
+      213: -6628065623846512377
+    second: CP_V1.0.4_112
+  - first:
+      213: 1214852291281677505
+    second: CP_V1.0.4_113
+  - first:
+      213: 3447895926370473773
+    second: CP_V1.0.4_114
+  - first:
+      213: 800205708819508089
+    second: CP_V1.0.4_115
+  - first:
+      213: 7956738581596690588
+    second: CP_V1.0.4_116
+  - first:
+      213: 5340184223977467462
+    second: CP_V1.0.4_117
+  - first:
+      213: -6701148393311645104
+    second: CP_V1.0.4_118
+  - first:
+      213: 6743906127505072151
+    second: CP_V1.0.4_119
+  - first:
+      213: -7736386526121830268
+    second: CP_V1.0.4_120
+  - first:
+      213: -4666086601233772243
+    second: CP_V1.0.4_121
+  - first:
+      213: -1915977012016871391
+    second: CP_V1.0.4_122
+  - first:
+      213: 8588391598521999155
+    second: CP_V1.0.4_123
+  - first:
+      213: -217665354218387754
+    second: CP_V1.0.4_124
+  - first:
+      213: 5933343082517474035
+    second: CP_V1.0.4_125
+  - first:
+      213: 2649354248252553833
+    second: CP_V1.0.4_126
+  - first:
+      213: -2707361895621633745
+    second: CP_V1.0.4_127
+  - first:
+      213: 4632863612214104782
+    second: CP_V1.0.4_128
+  - first:
+      213: 5053080535304145544
+    second: CP_V1.0.4_129
+  - first:
+      213: 7597017124525067548
+    second: CP_V1.0.4_130
+  - first:
+      213: -935815867920619742
+    second: CP_V1.0.4_131
+  - first:
+      213: -8253080496912804526
+    second: CP_V1.0.4_132
+  - first:
+      213: -7125522698241342724
+    second: CP_V1.0.4_133
+  - first:
+      213: -2417855486182406875
+    second: CP_V1.0.4_134
+  - first:
+      213: 3365718424473617764
+    second: CP_V1.0.4_135
+  - first:
+      213: 4456703390211629417
+    second: CP_V1.0.4_136
+  - first:
+      213: 899250432977068779
+    second: CP_V1.0.4_137
+  - first:
+      213: 6104360553069693573
+    second: CP_V1.0.4_138
+  - first:
+      213: -2641095148768311457
+    second: CP_V1.0.4_139
+  - first:
+      213: -8934555427437150831
+    second: CP_V1.0.4_140
+  - first:
+      213: 4089747502204686354
+    second: CP_V1.0.4_141
+  - first:
+      213: 9104036478556668425
+    second: CP_V1.0.4_142
+  - first:
+      213: 8297412718688646903
+    second: CP_V1.0.4_143
+  - first:
+      213: 3164208843644968228
+    second: CP_V1.0.4_144
+  - first:
+      213: -3911530490410185909
+    second: CP_V1.0.4_145
+  - first:
+      213: 3598604604391445827
+    second: CP_V1.0.4_146
+  - first:
+      213: 6879722844002301383
+    second: CP_V1.0.4_147
+  - first:
+      213: -9039403789401443899
+    second: CP_V1.0.4_148
+  - first:
+      213: -4732494506500629709
+    second: CP_V1.0.4_149
+  - first:
+      213: -3331083319038115983
+    second: CP_V1.0.4_150
+  - first:
+      213: -8466746529651828300
+    second: CP_V1.0.4_151
+  - first:
+      213: 5115382431559648024
+    second: CP_V1.0.4_152
+  - first:
+      213: 2905508196156369453
+    second: CP_V1.0.4_153
+  - first:
+      213: -7167928961994016125
+    second: CP_V1.0.4_154
+  - first:
+      213: -7603589697925949683
+    second: CP_V1.0.4_155
+  - first:
+      213: -6973836042693891968
+    second: CP_V1.0.4_156
+  - first:
+      213: 2423147833568121674
+    second: CP_V1.0.4_157
+  - first:
+      213: -7063064034380076379
+    second: CP_V1.0.4_158
+  - first:
+      213: -6335142615360024222
+    second: CP_V1.0.4_159
+  - first:
+      213: 6845562173592431509
+    second: CP_V1.0.4_160
+  - first:
+      213: -1768169136940656393
+    second: CP_V1.0.4_161
+  - first:
+      213: -4884298614618858292
+    second: CP_V1.0.4_162
+  - first:
+      213: -4249938587533430718
+    second: CP_V1.0.4_163
+  - first:
+      213: 500653117357479925
+    second: CP_V1.0.4_164
+  - first:
+      213: 6918197418461355644
+    second: CP_V1.0.4_165
+  - first:
+      213: -6722008910174157379
+    second: CP_V1.0.4_166
+  - first:
+      213: -3177041666052118749
+    second: CP_V1.0.4_167
+  - first:
+      213: -9120439792357804467
+    second: CP_V1.0.4_168
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copy City_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce2610240727248b8d592a960d7fa4
+      internalID: 105077820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d737c5064c20ab84f9d396497a1f57b1
+      internalID: -276990839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca86c709068be124eba44b66e08dadf0
+      internalID: 1813013348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b816666e3f230747abf4109be02c9c6
+      internalID: -1895310029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc5a605539bbf459b2c48f43df8a49
+      internalID: -502267057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447081bc6036354c80fbf87834fb54a
+      internalID: 1575827740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e32895c9834945b587c1d2bce4d88
+      internalID: 713333711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15109ad4d59944ab13ea5fbaab08f6
+      internalID: 1557329606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_64
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311a37e2ac9ce97449d59574f324a04b
+      internalID: 1267856790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ce806019a60b468bf4cfee0170f3f
+      internalID: 1482472292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3699bb53e6ec4eaae9370965656d4
+      internalID: 1955676089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c270a27212ef4688547ee424abd4a
+      internalID: 1628888998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e66d7abb08fa4b8f1407bf69e6a29
+      internalID: 1265332503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82a059dce66d2240bf968d02d9a171e
+      internalID: 250682799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8dc593ca5eff54999898f992d7ab3d
+      internalID: -1895549676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb172555d7d4e14c91d91d0fb1cd62d
+      internalID: 921470965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbdbe61f02dbb1468d6a0c8c762af70
+      internalID: -1451158169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd9ca995e9bb8047a78037d97d5e738
+      internalID: 266809095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6de5e6b45f694da3a7da5794fa15b
+      internalID: 551439993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_75
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35ad2671bbdee640a4e36b0eb9d4d05
+      internalID: -357919183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313854571ec227f4e862a5ed72cd3169
+      internalID: 1243605751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_77
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3f8131f21979f4ebfa09f01117f1a0
+      internalID: -730301315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3d8218cac4ac841bf596ae75b17ea0
+      internalID: 1646267643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1086a58e91b55d42b44e2c48cd15c3e
+      internalID: -71556035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbfc09064b4cf8418eef96131f30acc
+      internalID: -1128065703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ef9a67a51b40479bd8d04628e02be
+      internalID: 1833201523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee75fd5ea1ed7646879cf7b85356f76
+      internalID: 174368821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_83
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fcff8ffb7ce1946a48955ec9f96241
+      internalID: 1322704154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f36c496a24bed409cb6542586f2ac7
+      internalID: -1664553511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3fce9dea392e54ab4ee13f4ad6628f
+      internalID: -1970733798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_86
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5757dcda3363048abfb564895a496d
+      internalID: 1300140290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805446195c15ce4481387154e46d7ca
+      internalID: -1668572446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a74c74310b3743836cdfa1450bc46
+      internalID: 933360067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa1ffac8c81d8e4f9beab670a304465
+      internalID: -1162548424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_90
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b0331e1fd00234d9a129e4cd1b71f3
+      internalID: 1070152530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5207fcad6c4a31348923d232098f04be
+      internalID: -650877417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_92
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270da4b57650874c985bc2c0e594494
+      internalID: -533431819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_93
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d3489d011a00141b5e4aa1a291678f
+      internalID: 1737407343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4da399c2e061a4e868bd38e6f4984a
+      internalID: 345721815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36c4454a713314f863821692db077c
+      internalID: 1633724067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_96
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d008d8b88e9d49a0e1b1b3ffdee5c
+      internalID: -794311772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf2dce4b0eedcf49a2ec26f34a99afe
+      internalID: -150879590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d2a0ae9a58764593a4147d5441461
+      internalID: -2030471257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_99
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f763cbea92e2a42afdb9e8333cc5ad
+      internalID: 27003855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_100
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f53137ee2c4e148a0a4de356622329
+      internalID: -164525208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9050abbb6f6fe5740b4efd7606166fe4
+      internalID: 66755275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ea514eca972347895ad6f04a8e935
+      internalID: -153416871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_103
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3aa592be5bb1459cadf3c44ac1c5d
+      internalID: 1203036569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef6031106f73be4996fc5a54dfce4a5
+      internalID: 815986738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41849c7b0e3ba584eb705cd2c23dd2db
+      internalID: -1014937586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aad28d71d988c4181d6002e1ac641d
+      internalID: -231964448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8b1a8dbc415c4490c0fb31ead53f1
+      internalID: -1268348011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb3fb8b49779e14ebebc899d9c5aa54
+      internalID: -1849513690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d2860d51919a459c6cdc9263ef888
+      internalID: 155397401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa937ed66a158341b6bd3229fb064f8
+      internalID: -1573495465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c5a41873a4c14bb3d1b0371ff5606
+      internalID: 63867495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_112
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 228
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c5fb82ea81e8544854c6a4eb073481
+      internalID: -295092694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4cb6271e0954147a6cda870001a9fd
+      internalID: 1537859579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_114
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0cc942dee45194392fd25948eb42af
+      internalID: 1114323346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_115
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3003bda3fd5d241b2f6378656e6215
+      internalID: -1082668701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392a049004d4f8458d3e75ea7433a2b
+      internalID: 1054312022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d90855f9f6be04290dc4335efe0ab2
+      internalID: -2002298110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bafa1b54c2c664ab15a83939b2bb6f
+      internalID: -1877638086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_119
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a49e7dcd8eb945a2799bc5f9eefd1
+      internalID: 1014442883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_120
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbfdf09e5b9d024ab8e2b5c4751224a
+      internalID: 313936153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_121
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e11b8007dfde749a0720a5cbdaf283
+      internalID: -1062386642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19de79f2e6b514245a968242ab085bc0
+      internalID: 1066421040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef14532dd1f77be4d9f77894e061a48a
+      internalID: -1065252300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef087a39d9d1ab348bd4136a2fc81d25
+      internalID: -1742782167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e594eb11dbf9b194589b62f1c4629bd8
+      internalID: -1979404866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48acbb3681f4ef04cbcdae65bf332922
+      internalID: 358694139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_127
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 211
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a2fff2371b0949a9447dbaa8dca17
+      internalID: -1307853459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2201aee0037744882733b53e60334d
+      internalID: 767835183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a12f6fc78158b4f8621286181024a3
+      internalID: -2145304839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_130
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744c404c3d13d2643ae628b274ec168e
+      internalID: 370028744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_131
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506192f9eb50a341827b888ef4b17b1
+      internalID: 1123466793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_132
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea03da0e320c94eb2873ff65d0aae0
+      internalID: 1012690392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_133
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5bb6dff1217424dbaa086281a239b6
+      internalID: 1010885448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_134
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da68fab4a515f4b92d15ac11336cf6
+      internalID: -2024221272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_135
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bcde6c9d4363e4f8c5d8bc025e6161
+      internalID: 1022388773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_136
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cea33852c7a064cad50083b5883bb5
+      internalID: 1611932159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_137
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed74973bae6b44a88708de09923b86
+      internalID: -380802593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_138
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cdc1965e0425c47af5c87b3859d7a3
+      internalID: -554274915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb6afa63c773b94ab68eb584f769e5c
+      internalID: -1601638093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_140
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c069484eca8524bb379c1c5dab17c7
+      internalID: 1969221283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7465c647090f441b8a05cbbcf26d04
+      internalID: 432999925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313ce2894fd42140b443e42c5bd7b8c
+      internalID: -285139898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_143
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122441af48d80eb45a950e32794e48e0
+      internalID: -518027417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_144
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 167
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12f0936372e6894e87aa4ac5569ea65
+      internalID: -1873925844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_145
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 167
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c734c8db7f6f442933085023a29dc8
+      internalID: 205751435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_146
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f3e7f88c45b844c9de5ec2b274feb0
+      internalID: 1568942187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_147
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72a5fb6b54bb0418a370029621cfa9
+      internalID: 1430178465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_148
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44580c013cced674096f641e0da85175
+      internalID: 1359506127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_149
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a013f31d46a44f882c1fecb9f5e69
+      internalID: 782075530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_150
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ef23812990754fb66dc34bf701c9a
+      internalID: -172033069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_151
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f203a463b88945a90f41099f45627
+      internalID: -1912166334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_152
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb6990985efa9440adfcc43cf434fe3
+      internalID: 1060445488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_153
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40497b6ae10ac6442a43c7393d9fc86d
+      internalID: 1147684947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_154
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998cf67f5a06210478398272e356102b
+      internalID: 680778757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e155f034f0658040bbb00fb4851c181
+      internalID: 593366397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_156
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026169c2b0a869429a5ba526706053a
+      internalID: 1505792759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_157
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0dddda07d52c47b651b9b42945bc5
+      internalID: -1771500839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_158
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380517e8a9945e345b5bf38fab23d36b
+      internalID: 1685573126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3966739dd96e25a41bbe5a18d323a808
+      internalID: -725710582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_160
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4b3d55e02c4e24297f6bacba01f575
+      internalID: 152820432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b35b9cf53320b42a7d7f5e32f6157f
+      internalID: -2070380641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_162
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c58e7b915f2284a8896ba534c3f200
+      internalID: 1782968515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy City_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c216d846b8c2c34bb55ba8cb79d8efa
+      internalID: -1613474336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Copy City_0: 2016699749
+      Copy City_1: 637842484
+      Copy City_10: -635928213
+      Copy City_100: -164525208
+      Copy City_101: 66755275
+      Copy City_102: -153416871
+      Copy City_103: 1203036569
+      Copy City_104: 815986738
+      Copy City_105: -1014937586
+      Copy City_106: -231964448
+      Copy City_107: -1268348011
+      Copy City_108: -1849513690
+      Copy City_109: 155397401
+      Copy City_11: -589264116
+      Copy City_110: -1573495465
+      Copy City_111: 63867495
+      Copy City_112: -295092694
+      Copy City_113: 1537859579
+      Copy City_114: 1114323346
+      Copy City_115: -1082668701
+      Copy City_116: 1054312022
+      Copy City_117: -2002298110
+      Copy City_118: -1877638086
+      Copy City_119: 1014442883
+      Copy City_12: -623692748
+      Copy City_120: 313936153
+      Copy City_121: -1062386642
+      Copy City_122: 1066421040
+      Copy City_123: -1065252300
+      Copy City_124: -1742782167
+      Copy City_125: -1979404866
+      Copy City_126: 358694139
+      Copy City_127: -1307853459
+      Copy City_128: 767835183
+      Copy City_129: -2145304839
+      Copy City_13: 412640159
+      Copy City_130: 370028744
+      Copy City_131: 1123466793
+      Copy City_132: 1012690392
+      Copy City_133: 1010885448
+      Copy City_134: -2024221272
+      Copy City_135: 1022388773
+      Copy City_136: 1611932159
+      Copy City_137: -380802593
+      Copy City_138: -554274915
+      Copy City_139: -1601638093
+      Copy City_14: -195846239
+      Copy City_140: 1969221283
+      Copy City_141: 432999925
+      Copy City_142: -285139898
+      Copy City_143: -518027417
+      Copy City_144: -1873925844
+      Copy City_145: 205751435
+      Copy City_146: 1568942187
+      Copy City_147: 1430178465
+      Copy City_148: 1359506127
+      Copy City_149: 782075530
+      Copy City_15: 889329544
+      Copy City_150: -172033069
+      Copy City_151: -1912166334
+      Copy City_152: 1060445488
+      Copy City_153: 1147684947
+      Copy City_154: 680778757
+      Copy City_155: 593366397
+      Copy City_156: 1505792759
+      Copy City_157: -1771500839
+      Copy City_158: 1685573126
+      Copy City_159: -725710582
+      Copy City_16: 1994961930
+      Copy City_160: 152820432
+      Copy City_161: -2070380641
+      Copy City_162: 1782968515
+      Copy City_163: -1613474336
+      Copy City_17: -795514182
+      Copy City_18: -1833935583
+      Copy City_19: -1883373388
+      Copy City_2: -1026391061
+      Copy City_20: -547133400
+      Copy City_21: 1529515275
+      Copy City_22: -1668656472
+      Copy City_23: -1826877206
+      Copy City_24: -331351497
+      Copy City_25: -2090852917
+      Copy City_26: 2019945089
+      Copy City_27: -1450145150
+      Copy City_28: -1209426656
+      Copy City_29: -33446144
+      Copy City_3: 241594634
+      Copy City_30: -2033190752
+      Copy City_31: 1748916388
+      Copy City_32: -667124433
+      Copy City_33: 1983975070
+      Copy City_34: 1395495824
+      Copy City_35: -841964404
+      Copy City_36: 339600337
+      Copy City_37: 1422898260
+      Copy City_38: 807765981
+      Copy City_39: 1782877161
+      Copy City_4: 1705125241
+      Copy City_40: 1585915353
+      Copy City_41: 412870395
+      Copy City_42: 1015067341
+      Copy City_43: -1211577270
+      Copy City_44: 43433219
+      Copy City_45: 1253682696
+      Copy City_46: 396426008
+      Copy City_47: -2111631863
+      Copy City_48: -1124197921
+      Copy City_49: 1202333897
+      Copy City_5: -479161838
+      Copy City_50: 1683790000
+      Copy City_51: 1828604333
+      Copy City_52: 1416821061
+      Copy City_53: -185576198
+      Copy City_54: -927057213
+      Copy City_55: 960719016
+      Copy City_56: 105077820
+      Copy City_57: -276990839
+      Copy City_58: 1813013348
+      Copy City_59: -1895310029
+      Copy City_6: -541804307
+      Copy City_60: -502267057
+      Copy City_61: 1575827740
+      Copy City_62: 713333711
+      Copy City_63: 1557329606
+      Copy City_64: 1267856790
+      Copy City_65: 1482472292
+      Copy City_66: 1955676089
+      Copy City_67: 1628888998
+      Copy City_68: 1265332503
+      Copy City_69: 250682799
+      Copy City_7: 570258883
+      Copy City_70: -1895549676
+      Copy City_71: 921470965
+      Copy City_72: -1451158169
+      Copy City_73: 266809095
+      Copy City_74: 551439993
+      Copy City_75: -357919183
+      Copy City_76: 1243605751
+      Copy City_77: -730301315
+      Copy City_78: 1646267643
+      Copy City_79: -71556035
+      Copy City_8: 1963550433
+      Copy City_80: -1128065703
+      Copy City_81: 1833201523
+      Copy City_82: 174368821
+      Copy City_83: 1322704154
+      Copy City_84: -1664553511
+      Copy City_85: -1970733798
+      Copy City_86: 1300140290
+      Copy City_87: -1668572446
+      Copy City_88: 933360067
+      Copy City_89: -1162548424
+      Copy City_9: -2110350878
+      Copy City_90: 1070152530
+      Copy City_91: -650877417
+      Copy City_92: -533431819
+      Copy City_93: 1737407343
+      Copy City_94: 345721815
+      Copy City_95: 1633724067
+      Copy City_96: -794311772
+      Copy City_97: -150879590
+      Copy City_98: -2030471257
+      Copy City_99: 27003855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
